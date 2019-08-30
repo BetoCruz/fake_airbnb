@@ -81,7 +81,7 @@ fetch(API_URL)
       card.appendChild(image);
       card.appendChild(cardBody);
       cardBody.appendChild(cardText);
-      cardText.appendChild(propertyType);
+       
       cardText.appendChild(propertyName);
       cardText.appendChild(propertyPrice);
       // [ ... ]
